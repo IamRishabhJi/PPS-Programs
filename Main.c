@@ -188,6 +188,12 @@ int main()
 				}	
 		
 		}*/
+  
+  
+  
+  
+  
+  
 
 // #include <stdio.h>
 
@@ -207,15 +213,147 @@ int main()
      
 // }
 
+//{
+	// int a,b,sum;
+	// printf("enter value of a");
+//scanf ("%i",&a);
+	// printf("enter value of b");
+	// scanf("%i", &b);
+	// sum=a+b;
+//	 printf("the sum is %i",sum);
+//	 getch();
+//	 return 0;
+//	}*/ 
+	
+/*	 {
+	 	
+	  int a;
+	 printf("enter the number");
+	 scanf("%i",&a);
+	 if(a%2==0)
+	 {
+	 	printf("the number of even");
+	 }
+	 else
+	 {
+	 	printf("the number is odd");
+	 }
+}*/
+/*
+	 int a;
+	printf("print the number");
+	scanf("%i",&a);
+	if (a>0)
+	{
+	     printf("positive number");
+	    }
+	else if (a==0)
+		{
+			printf("zero");
+		}
+    else
+        {
+           	printf("nagtive number");
+		}
+}*/
+
+/*   int a,b;
+     printf("print the first");
+     scanf("%i",&a);
+     printf("enter the seconf");
+     scanf("%i",&b);
+     if(a>b)
+     { 
+     printf("a is grater");
+	 }
+	 else if(a==0)
+	 { 
+	 printf("equal");
+	 }
+	 else
+	 {
+	 	printf("b is greater");
+	 }
+}*/
+/*{
+	int a,b,c;
+	 printf("Enter the first");
+	 scanf("%d",&a);
+	 printf("enter the second");
+	 scanf("%d",&b);
+	 printf("enter the third");
+	 scanf("%d",&c);
+	 if (a>b&&a>c)
+	 printf("a is greater than b and c");
+	else if(b>c&&b>c)
+	printf("b is greater than a and c");
+	else if(c>a&&c>b)
+	printf("c is greater than a and b");
+	else if(a==b&&b>c)
+	printf("equal to");
+}*/
+  
+  
+  // strings wale
+  
+  
+//   #include<stdio.h>
+// #include<string.h>
+// void main()
+// {
+// char s1[100], s2[100];
+// int i;
+// printf("\nEnter the string :");
+// gets(s1);
+// i=0;
+//  while(s1[i]!=' ')
+// {
+//  s2[i] = s1[i];
+// i++;
+// }
+// s2[i]= ' ' ;
+// printf("\nCopied String is %s ", s2);
+
+// }
 
 
-{
-		
+
+
+
+// #include <stdio.h>
+// #include <string.h> 
+// void main()
+// {
+// char a[100], b[100];
+
+// printf("Enter the first string:\n");
+// scanf("%s",&a);
+// printf("Enter the second string:\n");
+//  scanf( "%s", &b); 
+// strcat(a,b);
+// printf("String obtained on concatenation is %s\n",a);
+
+// }
+
+// #include<stdio.h>
+// #include<string.h>
+// void main()
+// {
+// char s1[100], s2[100];
+// int i;
+// printf("\nEnter the string :");
+// gets(s1);
+// i=0;
+//  while(s1[i]!=' ')
+// {
+//  s2[i] = s1[i];
+// i++;
+// }
+// s2[i]= ' ' ;
+// printf("\nCopied String is %s ", s2);
+
+// }
   
-  
-  
-  
-}
   
   
   
